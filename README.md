@@ -2,7 +2,7 @@
 
 Este repositorio contiene los scripts y códigos necesarios para la recolección, procesamiento y visualización de datos sobre la afectación climática en Colombia. El objetivo del proyecto es analizar y mostrar de manera gráfica los efectos del cambio climático en diferentes regiones del país, abarcando aspectos como temperatura, precipitación, desastres naturales y otros eventos relacionados con el clima.
 
-Contenidos
+## Contenidos
 El repositorio está estructurado en 2 archivos, cada una con su propio propósito en el flujo de trabajo de datos:
 
 **Extracción y preparación de datos.ipynb:** Script para la recolección de datos desde fuentes abiertas de información climática. Estos scripts automatizan la descarga y limpieza de datos en bruto de los datos abiertos. Las fuentes de información se listan a continuación:
